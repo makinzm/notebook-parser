@@ -1,0 +1,12 @@
+LICENCE
+setup.py
+nparse/__init__.py
+nparse/convert.py
+nparse/main.py
+nparse/tmp.py
+nparse.egg-info/PKG-INFO
+nparse.egg-info/SOURCES.txt
+nparse.egg-info/dependency_links.txt
+nparse.egg-info/entry_points.txt
+nparse.egg-info/requires.txt
+nparse.egg-info/top_level.txt
